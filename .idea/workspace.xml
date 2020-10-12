@@ -2,22 +2,37 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="springmvc-04-controller:war exploded" />
+      <artifact name="springmvc-05-json:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3397f2f-8b77-4170-8857-5e4579e6e3fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/springmvc-01-servlet/web/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc_05_json_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/A80024.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/EncodingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/RedirectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/filter/EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/web/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/web/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-json/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-json/springmvc-05-json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-json/src/main/java/com/longg/controller/FastJsonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-json/src/main/java/com/longg/controller/FastJsonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-json/src/main/java/com/longg/controller/JacksonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-json/src/main/java/com/longg/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-json/src/main/java/com/longg/utils/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-json/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-json/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-json/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-json/web/jsonTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_01_servlet_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc_01_servlet_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_02_hellomvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc_02_hellomvc_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc-01-servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc-01-servlet/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc-02-hellomvc/src/main/resources/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/src/main/resources/springmvc-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc-02-hellomvc/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc-03-annotation/src/main/java/com/longg/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-03-annotation/src/main/java/com/longg/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc-03-annotation/src/main/resources/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-03-annotation/src/main/resources/springmvc-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/ControllerTestAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/ControllerTestAnnotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/RestFulController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/RestFulController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-04-controller/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-04-controller/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +45,9 @@
       <list>
         <option value="jsf" />
         <option value="spring-beans.schema" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -58,6 +74,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -69,6 +86,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA project\SpringMVC-Study\springmvc-04-controller\web" />
       <recent name="D:\IDEA project\SpringMVC-Study\springmvc-01-servlet\web" />
       <recent name="D:\IDEA project\SpringMVC-Study\springmvc-04-controller\src\main\resources" />
     </key>
@@ -85,13 +103,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FastJsonDemo">
+    <configuration name="FastJsonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.longg.controller.FastJsonDemo" />
+      <module name="springmvc-05-json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.longg.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.37" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.37" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=GBK" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="springmvc-04-controller:war exploded">
+        <artifact name="springmvc-05-json:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -156,7 +187,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="springmvc-04-controller:war exploded" />
+          <artifact name="springmvc-05-json:war exploded" />
         </option>
       </method>
     </configuration>
@@ -223,6 +254,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 9.0.37" />
+      <item itemvalue="Application.FastJsonDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FastJsonDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -243,7 +283,7 @@
       <workItem from="1600135965027" duration="11016000" />
       <workItem from="1602205599209" duration="9504000" />
       <workItem from="1602232343307" duration="10504000" />
-      <workItem from="1602464798513" duration="1598000" />
+      <workItem from="1602464798513" duration="22796000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 学习记录">
       <created>1600153323054</created>
@@ -252,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600153323054</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="10.10 二刷前十个视频的代码更新">
+      <created>1602467385907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602467385907</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +321,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="9.15 学习记录" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.15 学习记录" />
+    <MESSAGE value="10.10 二刷前十个视频的代码更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.10 二刷前十个视频的代码更新" />
   </component>
 </project>

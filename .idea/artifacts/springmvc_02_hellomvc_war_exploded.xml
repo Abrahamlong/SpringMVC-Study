@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="spring-02-hellomvc:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/spring_02_hellomvc_war_exploded</output-path>
+  <artifact type="exploded-war" name="springmvc-02-hellomvc:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springmvc_02_hellomvc_war_exploded</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="springmvc-02-hellomvc/web/Web" />
       <element id="directory" name="WEB-INF">

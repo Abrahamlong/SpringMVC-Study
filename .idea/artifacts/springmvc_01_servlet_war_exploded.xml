@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="spring-01-servlet:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/spring_01_servlet_war_exploded</output-path>
+  <artifact type="exploded-war" name="springmvc-01-servlet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springmvc_01_servlet_war_exploded</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="spring-01-servlet/web/Web" />
       <element id="directory" name="WEB-INF">

@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * @author long
  * @date 2020/9/15
+ *
+ * 测试RestFul风格的使用
  */
 @Controller
 public class RestFulController {
