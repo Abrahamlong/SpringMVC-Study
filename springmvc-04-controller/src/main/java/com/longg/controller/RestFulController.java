@@ -24,4 +24,10 @@ public class RestFulController {
         return "test";
     }
 
+    @RequestMapping(value = "/long4",method = RequestMethod.GET)
+    public String test2(Model model){
+        model.addAttribute("msg","我的请求方法为GET" );
+        return "test";
+    }
+
 }

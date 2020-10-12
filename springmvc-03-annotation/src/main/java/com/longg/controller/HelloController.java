@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * 如果添加在类上的请求路径则请求路径为多级：http://localhost/hello/long
  * 如果不添加类上的请求路径则：http://localhost/long
-  */
+ */
 //@RequestMapping("/hello")
 public class HelloController {
     @RequestMapping("/long")
@@ -22,5 +22,4 @@ public class HelloController {
         // 会自动被视图解析器处理
         return "hello";
     }
-
 }

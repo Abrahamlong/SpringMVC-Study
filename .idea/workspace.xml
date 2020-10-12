@@ -7,51 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3397f2f-8b77-4170-8857-5e4579e6e3fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc_03_annotation_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc_04_controller_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/SpringMVC的执行原理解析图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/springmvc-02-hellomvc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/src/main/java/com/longg/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/src/main/resources/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/web/WEB-INF/jsp/hello.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-03-annotation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-03-annotation/springmvc-03-annotation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-03-annotation/src/main/resources/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-03-annotation/web/WEB-INF/jsp/hello.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-03-annotation/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-03-annotation/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/ControllerTestAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/ControllerTestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/RestFulController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/src/main/resources/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/web/WEB-INF/jsp/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-04-controller/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_01_servlet_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_01_servlet_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_02_hellomvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_02_hellomvc_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-01-servlet/web/welcome.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-servlet/spring-01-servlet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/springmvc-01-servlet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-servlet/src/main/java/com/longg/servlet/FromServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/src/main/java/com/longg/servlet/FromServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-servlet/src/main/java/com/longg/servlet/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/src/main/java/com/longg/servlet/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-servlet/target/classes/com/longg/servlet/FromServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-servlet/target/classes/com/longg/servlet/HelloServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-servlet/web/WEB-INF/jsp/from.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/web/WEB-INF/jsp/from.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-servlet/web/WEB-INF/jsp/test.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/web/WEB-INF/jsp/test.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-servlet/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-servlet/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-02-hellomvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-02-hellomvc/spring-02-hellomvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-04-controller/springmvc-04-controller.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-02-hellomvc/src/main/java/com/longg/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-03-annotation/src/main/java/com/longg/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-02-hellomvc/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-02-hellomvc/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-01-servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-01-servlet/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-servlet/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-02-hellomvc/src/main/resources/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-02-hellomvc/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-02-hellomvc/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-03-annotation/src/main/java/com/longg/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-03-annotation/src/main/java/com/longg/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-03-annotation/src/main/resources/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-03-annotation/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/ControllerTestAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/ControllerTestAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/RestFulController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-04-controller/src/main/java/com/longg/controller/RestFulController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +30,8 @@
       <list>
         <option value="jsf" />
         <option value="spring-beans.schema" />
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -79,6 +45,13 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1hUilRnyHDl6vVAiJeHLFjTktV4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -88,14 +61,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBoot-Study" />
+    <property name="last_opened_file_path" value="D:/Gree/eoc" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15390626" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="spring" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA project\SpringMVC-Study\springmvc-01-servlet\web" />
       <recent name="D:\IDEA project\SpringMVC-Study\springmvc-04-controller\src\main\resources" />
     </key>
   </component>
@@ -266,8 +240,19 @@
       <workItem from="1600130779037" duration="585000" />
       <workItem from="1600131814641" duration="2748000" />
       <workItem from="1600135526308" duration="384000" />
-      <workItem from="1600135965027" duration="10246000" />
+      <workItem from="1600135965027" duration="11016000" />
+      <workItem from="1602205599209" duration="9504000" />
+      <workItem from="1602232343307" duration="10504000" />
+      <workItem from="1602464798513" duration="1598000" />
     </task>
+    <task id="LOCAL-00001" summary="9.15 学习记录">
+      <created>1600153323054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600153323054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,5 +273,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="9.15 学习记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.15 学习记录" />
   </component>
 </project>

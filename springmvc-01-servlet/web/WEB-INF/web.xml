@@ -21,8 +21,14 @@
         <servlet-name>from</servlet-name>
         <url-pattern>/from</url-pattern>
     </servlet-mapping>
+
+    <!--定制超时的时间-->
 <!--    <session-config>-->
 <!--        <session-timeout>5</session-timeout>-->
 <!--    </session-config>-->
 
+    <!--定制欢迎页-->
+<!--    <welcome-file-list>-->
+<!--        <welcome-file>welcome.jsp</welcome-file>-->
+<!--    </welcome-file-list>-->
 </web-app>

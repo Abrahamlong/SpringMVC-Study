@@ -17,5 +17,4 @@ public class ControllerTestAnnotation {
         model.addAttribute("msg","测试ControllerTestAnnotation的类");
         return "test";
     }
-
 }
