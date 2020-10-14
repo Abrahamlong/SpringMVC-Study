@@ -13,7 +13,11 @@
     <script>
       function a() {
         $.post({
-
+          url:"${pageContext.request.contextPath}/ajax1",
+          data:{"name" : $("#userName").val()},
+          success:function (data) {
+            alert(data);
+          }
         })
       }
     </script>
